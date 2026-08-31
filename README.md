@@ -23,7 +23,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-No external services required: the entire e-commerce storefront runs from this Full-stack app repo (45 files). Top-level layout: `src/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+No external services required: the entire e-commerce storefront runs from this Full-stack app repo (34 files). Top-level layout: `src/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
